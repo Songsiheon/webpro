@@ -3,7 +3,7 @@ package org.zerock.domain;
 import java.util.Date;
 
 public class MemberVO {
-	// var declare
+
 	private String userid;
 	private String userpw;
 	private String username;
